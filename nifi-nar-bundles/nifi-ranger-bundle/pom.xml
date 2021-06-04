@@ -28,7 +28,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <httpcomponents.httpclient.version>4.4.1</httpcomponents.httpclient.version>
+        <httpcomponents.httpclient.version>4.5.13</httpcomponents.httpclient.version>
         <httpcomponents.httpcore.version>4.4.1</httpcomponents.httpcore.version>
         <httpcomponents.httpmime.version>4.4.1</httpcomponents.httpmime.version>
     </properties>
